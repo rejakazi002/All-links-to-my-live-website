@@ -13,17 +13,29 @@ rejakazi002/rejakazi002 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# All-my-website-live-links
-
-*** Osudkini : https://osudkini.com
+# All-links-to-my-live-website
 
 *** Esquire Electronics Ltd.: https://www.esquireelectronicsltd.com
 
-*** Heriken : https://heriken.com
+*** Bongodeshi : https://bongodeshi.com
 
-*** Queries care : https://queriescare.com
+*** Osudkini : https://osudkini.com
+
+*** Cocokids : https://www.cocokids.com.bd
+
+*** Abirshop : https://www.abirshop.com
 
 *** Guardian Publications : https://www.guardianpubs.com
+
+*** Halalfood : https://halalfood.live
+
+*** Heriken : https://heriken.com
+
+*** Technique Easy Education : https://tee.com.bd
+
+*** Daily Care : https://www.dailycarebd.com
+
+
 
 
 
